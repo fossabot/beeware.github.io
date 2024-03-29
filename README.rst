@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkvaessen%2Fbeeware.github.io.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkvaessen%2Fbeeware.github.io?ref=badge_shield)
+
 .. image:: http://beeware.org/static/images/brutus-270.png
     :width: 72px
     :target: https://beeware.org
@@ -106,3 +108,7 @@ the site!  Steps are as follows:
 
 A great place to start translating is the `contributing section
 <https://beeware.org/contributing/>`_.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkvaessen%2Fbeeware.github.io.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkvaessen%2Fbeeware.github.io?ref=badge_large)
